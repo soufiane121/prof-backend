@@ -1,4 +1,4 @@
-require 'byebug'
+
 class GuestsController < ApplicationController
 
     def index
